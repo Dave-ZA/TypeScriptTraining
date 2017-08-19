@@ -1,0 +1,19 @@
+{
+  "name": "typescripttraining",
+  "version": "1.0.0",
+  "description": "Used for the Udemy Typescript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dave-ZA/TypeScriptTraining.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dave-ZA/TypeScriptTraining/issues"
+  },
+  "homepage": "https://github.com/Dave-ZA/TypeScriptTraining#readme"
+}
